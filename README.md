@@ -7,7 +7,7 @@ Undergraduate EEc Student at the University of Iowa
 * 🖥️  See my portfolio at [samwitte.com](http://samwitte.com)
 * ✉️  You can contact me at [sam@samwitte.com](mailto:sam@samwitte.com)
 * 🧠  I'm learning about active roll control systems in high powered model rockets
-* ⚡  I'm actively searching for Summer '24 internships and full time jobs post-graduation
+* ⚡  I have accepted an offer to join [ispace, inc.](https://ispace-inc.com/) as a Software Intern for Summer 2024!
 
 ### Skills
 
