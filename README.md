@@ -7,7 +7,8 @@ Undergraduate EEc Student at the University of Iowa
 * 🖥️  See my portfolio at [samwitte.com](http://samwitte.com)
 * ✉️  You can contact me at [sam@samwitte.com](mailto:sam@samwitte.com)
 * 🧠  I'm learning about active roll control systems in high powered model rockets, developing a video game, and building electronics projects
-* ⚡  Avionics Intern at [ispace-US, inc.](https://ispace-us.com/); developing GSE hardware for ispace's Apex 1.0 lander, M3, and onwards 🚀
+* 🔧  Currently searching for full time positions in and around Denver, CO and Seattle, WA. 
+* ⚡  Previously an Avionics Intern at [ispace-US, inc.](https://ispace-us.com/); developing GSE hardware for ispace's Apex 1.0 lander, M3, and onwards 🚀
 
 ### Skills
 
