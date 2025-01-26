@@ -4,7 +4,7 @@ Hi 👋 My name is Sam Witte
 EE Graduate
 ---------------------------------------------------
 
-* 🖥️  See my portfolio at [samwitte.com](http://samwitte.com)
+* 🖥️  See my portfolio and resume at [samwitte.com](http://samwitte.com)
 * ✉️  You can contact me at [sam@samwitte.com](mailto:sam@samwitte.com)
 * 🔍  Actively searching for full-time positions in embedded systems and hardware engineering in and around Denver, CO, Seattle, WA, or remote.
 * 🧠  I'm expanding my portfolio by completing projects like CircuitFish (link coming soon), a circuit block reference dictionary, and a portable ESP32 powered temperature sensor.
