@@ -1,14 +1,14 @@
 Hi 👋 My name is Sam Witte
 ==========================
 
-Undergraduate EEc Student at the University of Iowa
+EE Graduate
 ---------------------------------------------------
 
 * 🖥️  See my portfolio at [samwitte.com](http://samwitte.com)
 * ✉️  You can contact me at [sam@samwitte.com](mailto:sam@samwitte.com)
-* 🧠  I'm learning about active roll control systems in high powered model rockets, developing a video game, and building electronics projects
-* 🔧  Currently searching for full time positions in and around Denver, CO and Seattle, WA. 
-* ⚡  Previously an Avionics Intern at [ispace-US, inc.](https://ispace-us.com/); developing GSE hardware for ispace's Apex 1.0 lander, M3, and onwards 🚀
+* 🔍  Actively searching for full-time positions in embedded systems and hardware engineering in and around Denver, CO, Seattle, WA, or remote.
+* 🧠  I'm expanding my portfolio by completing projects like CircuitFish (link coming soon), a circuit block reference dictionary, and a portable ESP32 powered temperature sensor.
+* ⚡  Previously an Avionics Intern at [ispace-US, inc.](https://ispace-us.com/), where I developed GSE hardware for the Apex 1.0 lander, M3, and future missions 🚀
 
 ### Skills
 
