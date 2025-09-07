@@ -6,8 +6,7 @@ EE Graduate
 
 * 🖥️  See my portfolio and resume at [samwitte.com](http://samwitte.com)
 * ✉️  You can contact me at [sam@samwitte.com](mailto:sam@samwitte.com)
-* 🔍  Actively searching for full-time positions in embedded systems and hardware engineering in and around Colorado, Washington, California, or elsewhere.
-* ⚡  Previously an Avionics Intern at [ispace-US, inc.](https://ispace-us.com/), where I developed GSE hardware for the Apex 1.0 lander, M3, and future missions 🚀
+* ⚡  Avionics Engineer @ [Stratolaunch](https://www.stratolaunch.com) 🚀
 
 ### Skills
 
